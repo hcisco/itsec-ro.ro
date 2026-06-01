@@ -463,9 +463,17 @@ footer {
   .style-nav ul {
     display: none;
     flex-direction: column;
-    gap: 6px;
+    gap: 10px;
     width: 100%;
     margin: 0;
+  }
+
+  .style-nav ul li a {
+    padding: 8px 12px;
+  }
+
+  #lang-toggle {
+    padding: 8px 12px;
   }
 
   .style-nav.open ul {
