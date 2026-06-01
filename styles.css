@@ -468,14 +468,6 @@ footer {
     margin: 0;
   }
 
-  .style-nav ul li a {
-    padding: 8px 12px;
-  }
-
-  #lang-toggle {
-    padding: 8px 12px;
-  }
-
   .style-nav.open ul {
     display: flex;
   }
